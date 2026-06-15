@@ -1,0 +1,71 @@
+{
+  "siteId": "probiotics-gut-health",
+  "generatedAt": "2026-06-05T17:54:40.423771",
+  "categories": [
+    "beginner-probiotics-gut-health",
+    "advanced-probiotics-gut-health",
+    "tips-probiotics-gut-health",
+    "history-probiotics-gut-health",
+    "trending-probiotics-gut-health",
+    "tutorials-probiotics-gut-health"
+  ],
+  "categoryData": [
+    {
+      "category_slug": "beginner-probiotics-gut-health",
+      "category_name": "Beginner Probiotics Gut Health"
+    },
+    {
+      "category_slug": "advanced-probiotics-gut-health",
+      "category_name": "Advanced Probiotics Gut Health"
+    },
+    {
+      "category_slug": "tips-probiotics-gut-health",
+      "category_name": "Probiotics Gut Health Tips"
+    },
+    {
+      "category_slug": "history-probiotics-gut-health",
+      "category_name": "Probiotics Gut Health History"
+    },
+    {
+      "category_slug": "trending-probiotics-gut-health",
+      "category_name": "Trending Probiotics Gut Health"
+    },
+    {
+      "category_slug": "tutorials-probiotics-gut-health",
+      "category_name": "Probiotics Gut Health Tutorials"
+    }
+  ],
+  "articleCount": 108,
+  "design": {
+    "site_id": "probiotics-gut-health",
+    "color_scheme": {
+      "name": "Sunset Rose",
+      "primary": "#be123c",
+      "secondary": "#fb7185",
+      "accent": "#fda4af",
+      "background": "#fff1f2",
+      "text": "#881337",
+      "light": "#ffe4e6"
+    },
+    "font": {
+      "name": "Roboto",
+      "family": "'Roboto', sans-serif",
+      "import": "@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap');"
+    },
+    "layout": "minimal",
+    "border_radius": "0px",
+    "box_shadow": "0 1px 3px rgba(0,0,0,0.1)",
+    "article_card_style": "list",
+    "header_style": "classic",
+    "footer_style": "standard",
+    "modules": [
+      "trending-articles",
+      "newsletter-signup",
+      "featured-section",
+      "popular-tags",
+      "about-widget"
+    ],
+    "site_title": "Probiotics Gut Health Central",
+    "articles_per_row": 2
+  }
+}
